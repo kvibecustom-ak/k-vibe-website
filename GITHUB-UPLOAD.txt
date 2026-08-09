@@ -1,0 +1,22 @@
+K-VIBE — GITHUB PAGES UPLOAD
+
+Do NOT upload the ZIP file itself.
+
+1. Extract the ZIP.
+2. Open your GitHub repository.
+3. Delete/replace the old website files if needed.
+4. Upload these items to the repository root:
+   - index.html
+   - styles.css
+   - script.js
+   - images/ folder
+   - .gitignore (optional)
+5. Commit changes.
+6. In Settings > Pages:
+   Source: Deploy from a branch
+   Branch: main
+   Folder: /(root)
+
+Your website will then use the same GitHub Pages URL.
+
+All catalog images in this package have been optimized to WebP for faster loading and smaller GitHub uploads.
